@@ -107,12 +107,6 @@ function nmostrar(){
     
     }
 
-    function clicou(){
 
-
-
-      m7.style.backgroundColor = "purple";
-    }
-    
   
   
